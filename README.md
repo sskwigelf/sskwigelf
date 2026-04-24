@@ -18,6 +18,16 @@
 	<br/>
 	${{\color{#274c2f}{\textsf{ diagnosed and currently under treatment for}}}}$ <a href="https://my.clevelandclinic.org/health/diseases/17786-intermittent-explosive-disorder">ied</a> ${{\color{#274c2f}{\textsf{, iwc at times }}}}$
 	<br/>
+	${{\color{#6d4e12}{\textsf{misanthrope , frequent masker of it}}}}$
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	 ${{\color{#274c2f}{\textsf{ fandoms im in [ yellow = current fixation(s) ] }}}}$
+	<br/>
+	<br/>
+	${{\color{#6d4e12}{\textsf{TF2}}}}$  , ${{\color{#6d4e12}{\textsf{metalocalypse}}}}$  , ${{\color{#274c2f}{\textsf{inglourious basterds}}}}$  , ${{\color{#274c2f}{\textsf{the day of the jackal}}}}$  , ${{\color{#274c2f}{\textsf{eddsworld}}}}$  , ${{\color{#274c2f}{\textsf{homestuck}}}}$  , ${{\color{#274c2f}{\textsf{murder drones [fandom iwvec, i dont like a lot of you]}}}}$
+	<br/>
 	<br/>
  <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -34,4 +44,4 @@
 <img width="732" height="9" alt="image" src="https://file.garden/aSd5lebnTCh3RN_v/github/image%20(4).png" />
    <br/>
 	<br/>
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=40&duration=2000&pause=100&color=698341&center=true&width=435&lines=Bait+%2C+and+switch+%2C+;one+and+all+%2C+full+of+shit+!" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=30&duration=2000&pause=100&color=698341&center=true&width=435&lines=Bait+%2C+and+switch+%2C+;one+and+all+%2C+full+of+shit+!" alt="Typing SVG" /></a>
