@@ -16,6 +16,7 @@
 	 ${{\color{#6d4e12}{\textsf{' number 1 pothead on earth }}}}$
 	<br/>
 	<br/>
+	${{\color{#274c2f}{\textsf{ diagnosed and currently under treatment for }}}}$ <a href="https://my.clevelandclinic.org/health/diseases/17786-intermittent-explosive-disorder">ied (intermittent explosive disorder)</a>
 	<br/>
 	<br/>
  <p align="center">
