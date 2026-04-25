@@ -11,7 +11,7 @@
 <br/>
 <br/>
 	<br/>
-	 ${{\color{#274c2f}{\textsf{ metalhead, rocker + noise not music fan }}}}$
+	 ${{\color{#274c2f}{\textsf{ metalhead, rocker + noise not music fan, ill listen to anything with good guitar riffs :-) }}}}$
 	<br/>
 	 ${{\color{#6d4e12}{\textsf{' number 1 pothead on earth }}}}$
 	<br/>
